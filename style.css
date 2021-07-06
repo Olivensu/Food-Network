@@ -44,12 +44,17 @@ ul {
 
   .first_sec{
     display: flex;
-    background-image:url(images/shapes/Frame\ 57.jpg);
-    
-}
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
 .second_sec{
     display: flex;
     background-image:url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 .third_sec{
     margin-bottom: 80px;
