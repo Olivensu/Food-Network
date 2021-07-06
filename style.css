@@ -39,7 +39,7 @@ ul {
   }
   
   li a:hover {
-    background-color: rgb(172, 9, 9);
+    background-color: rgb(0, 184, 184);
   }
 
   .first_sec{
@@ -124,6 +124,9 @@ span{
     padding: 5px;
     margin-left: 5%;
     padding-left: 2%;
+}
+.text1 a{
+    margin-top: 50px;
 }
 .text2 a{
     margin-top: 60px;
