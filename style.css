@@ -163,14 +163,14 @@ h3{
     margin-left: 17%;
 }
 footer{
-    background-color: black;
+    background-color: #EAB543;
     text-align: center;
     padding: 20px 0px;
 }
 footer h2{
-    color: rgb(80, 74, 74);
+    color: rgb(48, 43, 43);
 }
 footer p{
-    color: white;
+    color: rgb(128, 35, 35);
 }
 
