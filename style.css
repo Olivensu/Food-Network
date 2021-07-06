@@ -57,11 +57,11 @@ ul {
     background-size: cover;
 }
 .third_sec{
-    margin-bottom: 80px;
+    margin-bottom: 60px;
 }
 .fourth_sec{
     display: flex;
-    margin-bottom: 80px;
+    margin-bottom: 60px;
     width: 90%;
     border: 0px solid;
     text-align: center;
@@ -69,6 +69,11 @@ ul {
     border-radius: 15px;
     margin-left: 5%;
     background-color: #ffb79a ;
+}
+
+.fifth_sec{
+    display: flex;
+    margin-bottom: 80px;
 }
 h1{
     font-size: 60px;
@@ -173,6 +178,37 @@ h3{
 .rating p{
     color:darkred;
 }
+.checked {
+    color: rgb(53, 50, 50);
+  }
+
+  .review{
+      width: 25%;
+      float: left;
+      margin-left: 15%;
+      padding: 2%;
+      border: 0px solid;
+    box-shadow: 5px 10px 8px 10px #e6e3e3;
+    border-radius: 20px;
+  }
+  .review img{
+      width: 13%;
+      float: left;
+  }
+.review h2{
+      float: left;
+    margin-left: 3% ;
+  }
+  .review span{
+      float: right;
+  }
+.review p{
+    padding: 10px;
+    font-size: 17px;
+    float: left;
+    color:darkred;
+}
+
 footer{
     background-color: #422009;
     text-align: center;
