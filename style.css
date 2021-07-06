@@ -39,7 +39,7 @@ ul {
   }
   
   li a:hover {
-    background-color: rgb(0, 184, 184);
+    background-color: rgb(255, 119, 56);
   }
 
   .first_sec{
@@ -187,13 +187,15 @@ h3{
       float: left;
       margin-left: 15%;
       padding: 2%;
-      border: 0px solid;
-    box-shadow: 5px 10px 8px 10px #e6e3e3;
-    border-radius: 20px;
+      background-color: #ffeaa7;
+      border-radius: 25px;
   }
   .review img{
       width: 13%;
       float: left;
+  }
+  .review_h1{
+      text-align: center;
   }
 .review h2{
       float: left;
