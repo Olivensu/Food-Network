@@ -150,13 +150,13 @@ span{
     margin-bottom: 25px;
 }
 .box{
-    width: 26%;
+    width: 23%;
     float: left;
     padding: 15px;
-    margin-left: 4%;
+    margin-left: 6%;
     border: 0px solid;
-    box-shadow: 5px 10px 8px 10px #dbd6d6;
-    border-radius: 15px;
+    box-shadow: 5px 10px 8px 10px #e4e1e1;
+    border-radius: 20px;
 }
 h3{
     padding-top: 15px;
