@@ -3,13 +3,13 @@ body{
     margin: 0;
 }
 .navbar{
-    background-image: linear-gradient(#cc2b5e , #753a88);
+    background-image: linear-gradient(#F8EFBA , #58B19F);
 }
 .food_network{
     float: left;
     margin: 0;
     padding: 0;
-    color:rgb(6, 247, 207);
+    color:#182C61;
     font-size: 30px;
     margin-left: 10%;
     padding: 8px 16px;
@@ -32,7 +32,7 @@ ul {
   
   li a {
     display: block;
-    color: white;
+    color: #2C3A47;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -52,7 +52,18 @@ ul {
     background-image:url(images/shapes/Frame\ 58.jpg);
 }
 .third_sec{
-    margin-bottom: 100px;
+    margin-bottom: 80px;
+}
+.fourth_sec{
+    display: flex;
+    margin-bottom: 80px;
+    width: 90%;
+    border: 0px solid;
+    text-align: center;
+    box-shadow: 5px 10px 8px 10px #fde0d4;
+    border-radius: 15px;
+    margin-left: 5%;
+    background-color: #ffb79a ;
 }
 h1{
     font-size: 60px;
@@ -136,7 +147,7 @@ span{
     padding: 15px;
     margin-left: 4%;
     border: 0px solid;
-    box-shadow: 5px 10px 8px 10px #d3cbcb;
+    box-shadow: 5px 10px 8px 10px #dbd6d6;
     border-radius: 15px;
 }
 h3{
@@ -146,6 +157,10 @@ h3{
 }
 .box_p{
     font-size: 20px;
+}
+.rating{
+    float: left;
+    margin-left: 17%;
 }
 footer{
     background-color: black;
